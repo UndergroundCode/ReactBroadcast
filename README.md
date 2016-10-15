@@ -2,6 +2,9 @@
 A simple lightweight React broadcast library
 
 # Usage
+## Install
+    npm install reactbroadcast
+
 ## Broadcast an Event
 To broadcast an event to all components watching for the event:
 
